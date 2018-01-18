@@ -1,0 +1,6 @@
+CCleaner.exe
+2
+wordpad.exe
+10
+Wireshark.exe
+3
